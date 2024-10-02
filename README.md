@@ -4,7 +4,7 @@ Test for your [Sprinters](https://sprinters.sh) setup.
 
 How to use:
 1. Clone this repository
-2. On your cloned repo, [trigger the test workflow](../../actions/workflows/test) in GitHub Actions
+2. On your cloned repo, [run the `sprinters-test` workflow](../../actions/workflows/test.yml) in GitHub Actions
 3. Inspect the workflow run logs
 
 If it was successful, you should see
